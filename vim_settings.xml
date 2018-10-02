@@ -5952,11 +5952,10 @@
         <mark key="^" line="53" column="71" />
         <mark key="." line="49" column="66" />
       </file>
-      <file name="$USER_HOME$/Development/cfht-api/common/proto/src/main/proto/cfhtapi/options.proto" timestamp="1538513893356">
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="38" column="24" />
-        <mark key="." line="38" column="24" />
-        <mark key="^" line="38" column="24" />
+      <file name="$USER_HOME$/Development/cfht-api/common/proto/src/main/proto/cfhtapi/options.proto" timestamp="1538514880503">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/persistence/src/main/java/edu/hawaii/cfht/observing/persistence/converters/ObservingBlockSnapshotConverter.java" timestamp="1526355997222">
         <mark key="[" line="31" column="55" />
@@ -8206,8 +8205,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>READ</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>b</text>
@@ -14012,34 +14011,34 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBVQkxJQ19SRUFEID0gMzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJwcm9zIj4ke3tzdG9ja319PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIEZPTyA9IE9QRVJBVElPTlNfV1JJVEUgJiBPUEVSQVRJT05TX1JFQUQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGFwcC1yaWRkbGUgW25leHRSb3V0ZV09Im5leHRSb3V0ZSIgcGFzc3dvcmQ9ImVudmVsb3BlLTMiPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8YnIvPgo=</text>
+        <text encoding="base64">ICAgIFBVQkxJQ19SRUFEID0gMzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8YnIvPgo=</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJwcm9zIj4ke3tzdG9ja319PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8YnIvPgo=</text>
+        <text encoding="base64">PGFwcC1yaWRkbGUgW25leHRSb3V0ZV09Im5leHRSb3V0ZSIgcGFzc3dvcmQ9ImVudmVsb3BlLTMiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZUhhc2g6IHRyZGR1ZSwK</text>
+        <text encoding="base64">ICA8YnIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8YnIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
