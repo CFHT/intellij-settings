@@ -3968,11 +3968,10 @@
         <mark key="." line="33" column="12" />
         <mark key="^" line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/cfht-api/authorization/domain/src/main/java/edu/cfht/authorization/domain/session/AuthorizationEntity.java" timestamp="1538431608608">
-        <mark key="[" line="49" column="64" />
-        <mark key="]" line="49" column="75" />
-        <mark key="." line="49" column="75" />
-        <mark key="^" line="49" column="75" />
+      <file name="$USER_HOME$/Development/cfht-api/authorization/domain/src/main/java/edu/cfht/authorization/domain/session/AuthorizationEntity.java" timestamp="1538447179649">
+        <mark key="[" line="48" column="44" />
+        <mark key="]" line="48" column="44" />
+        <mark key="." line="48" column="44" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/persistence/pom.xml" timestamp="1526356044671">
         <mark key="[" line="148" column="48" />
@@ -7095,11 +7094,11 @@
         <mark key="^" line="57" column="35" />
         <mark key="." line="57" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/immutables/value-processor/src/org/immutables/value/processor/meta/AttributeBuilderReflection.java" timestamp="1538431793232">
-        <mark key="[" line="492" column="17" />
-        <mark key="]" line="484" column="44" />
-        <mark key="^" line="484" column="44" />
-        <mark key="." line="484" column="44" />
+      <file name="$USER_HOME$/Development/immutables/value-processor/src/org/immutables/value/processor/meta/AttributeBuilderReflection.java" timestamp="1538446984428">
+        <mark key="[" line="426" column="89" />
+        <mark key="]" line="427" column="11" />
+        <mark key="^" line="427" column="11" />
+        <mark key="." line="427" column="11" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/queue/src/main/java/edu/hawaii/cfht/observing/queue/ObservingSessionMount.java" timestamp="1536974942075">
         <mark key="[" line="41" column="17" />
@@ -8347,8 +8346,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTZXNzaW9uRGF0YS5uZXdCdWlsZGVyKCkuYnVpbGQoKS50b0J1aWxkZXIoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="b" type="4">
         <text>b</text>
@@ -11474,7 +11473,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>outcom</text>
@@ -14149,34 +14148,34 @@
         <text>$$$$$$$$$$</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTZXNzaW9uRGF0YS5uZXdCdWlsZGVyKCkuYnVpbGQoKS50b0J1aWxkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0cmlidXRlQnVpbGRlciA9IHsiQnVpbGRlciIsICJuZXdCdWlsZGVyIiwgImJ1aWxkIiwgInRvQnVpbGRlciJ9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUeXBlS2luZCBraW5kID0gY2FuZGlkYXRlQ29weU1ldGhvZC5nZXRSZXR1cm5UeXBlKCkuZ2V0S2luZCgpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk5vdCBhIGNvcHkgbWV0aG9kIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBTZXNzaW9uRGF0YS5uZXdCdWlsZGVyKCkuYnVpbGQoKS50b0J1aWxkZXIoKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUeXBlS2luZCBraW5kID0gY2FuZGlkYXRlQ29weU1ldGhvZC5nZXRSZXR1cm5UeXBlKCkuZ2V0S2luZCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk5vdCBhIGNvcHkgbWV0aG9kIik7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTZXNzaW9uRGF0YS5uZXdCdWlsZGVyKCkuYnVpbGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBTZXNzaW9uRGF0YS5uZXdCdWlsZGVyKCkuYnVpbGQoKS50b0J1aWxkZXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHlwZXMgdHlwZVV0aWxzID0gdmFsdWVBdHRyaWJ1dGUuY29udGFpbmluZ1R5cGUuY29uc3RpdHV0aW9uLnByb3RvY2xhc3MoKS5lbnZpcm9ubWVudCgpLnByb2Nlc3NpbmcoKS5nZXRUeXBlVXRpbHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTZXNzaW9uRGF0YS5uZXdCdWlsZGVyKCkuYnVpbGQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbmRpZGF0ZUJ1aWxkTWV0aG9kLmdldFJldHVyblR5cGUoKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHlwZXMgdHlwZVV0aWxzID0gdmFsdWVBdHRyaWJ1dGUuY29udGFpbmluZ1R5cGUuY29uc3RpdHV0aW9uLnByb3RvY2xhc3MoKS5lbnZpcm9ubWVudCgpLnByb2Nlc3NpbmcoKS5nZXRUeXBlVXRpbHMoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
