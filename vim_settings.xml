@@ -6346,6 +6346,13 @@
         <mark key="." line="17" column="52" />
         <mark key="^" line="17" column="52" />
       </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/app.component.html" timestamp="1538455716141">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+      </file>
       <file name="$USER_HOME$/Development/cfht-api/authorization/domain/src/test/java/edu/cfht/authorization/domain/session/AuthorizationFactoryTest.java" timestamp="1510876818865">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="41" />
@@ -8378,7 +8385,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="b" type="4">
         <text>b</text>
@@ -11504,7 +11511,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text>outcom</text>
