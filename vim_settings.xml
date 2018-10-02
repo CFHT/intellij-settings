@@ -417,6 +417,13 @@
         <mark key="." line="131" column="11" />
         <mark key="^" line="115" column="37" />
       </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/second/second.component.html" timestamp="1538467303724">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="62" />
+        <mark key="^" line="0" column="62" />
+        <mark key="." line="0" column="62" />
+      </file>
       <file name="$USER_HOME$/Development/cfht-api/service/grpc-element/src/main/java/edu/cfht/hawaii/service/grpc/element/GrpcElementProvider.java" timestamp="1529406224116">
         <mark key="[" line="23" column="19" />
         <mark key="]" line="23" column="18" />
@@ -1005,7 +1012,7 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/styles.css" timestamp="1538463104840">
+      <file name="$USER_HOME$/Development/fivehundred/src/styles.css" timestamp="1538468100150">
         <mark key="'" line="28" column="182" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -1210,11 +1217,11 @@
         <mark key="^" line="25" column="94" />
         <mark key="." line="25" column="94" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/second/second.component.ts" timestamp="1538461351988">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="13" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/second/second.component.ts" timestamp="1538467694365">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/cfhtapi/src/test/java/edu/hawaii/cfht/cfhtapi/acceptance/TargetAcceptanceTest.java" timestamp="1520372468537">
         <mark key="[" line="38" column="42" />
@@ -1414,13 +1421,6 @@
         <mark key="." line="54" column="35" />
         <mark key="^" line="54" column="35" />
       </file>
-      <file name="$USER_HOME$/Development/cfht-api/observing/persistence/proto/src/main/proto/cfhtapi/observing/persistence/time_constrained.proto" timestamp="1538006131121">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="60" column="1" />
-        <mark key="^" line="60" column="1" />
-        <mark key="." line="60" column="1" />
-      </file>
       <file name="$USER_HOME$/Development/cfht-api/cfhtapi/src/main/java/edu/hawaii/cfht/cfhtapi/HealthcheckModule.java" timestamp="1513024723593">
         <mark key="[" line="25" column="49" />
         <mark key="]" line="25" column="58" />
@@ -1570,13 +1570,6 @@
         <mark key="]" line="20" column="31" />
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
-      </file>
-      <file name="$USER_HOME$/Development/cfht-api/observing/persistence/proto/src/main/proto/cfhtapi/observing/persistence/observing_group.proto" timestamp="1538452580264">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="41" column="31" />
-        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/authorization/domain/src/main/java/edu/cfht/authorization/domain/hashed/Sha256AccessTokenHasher.java" timestamp="1511823806416">
         <mark key="[" line="9" column="4" />
@@ -1908,13 +1901,6 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/cfht-api/sybase/persistence/src/main/java/edu/hawaii/cfht/sybase/persistence/converter/ReelConverter.java" timestamp="1538018850168">
-        <mark key="'" line="27" column="16" />
-        <mark key="[" line="22" column="58" />
-        <mark key="]" line="22" column="97" />
-        <mark key="^" line="22" column="97" />
-        <mark key="." line="22" column="97" />
-      </file>
       <file name="$USER_HOME$/Development/cfht-api/service/pubsub-service/src/main/java/edu/hawaii/cfht/service/pubsub/service/PubsubExecutorBrokerServiceModule.java" timestamp="1537352901459">
         <mark key="[" line="33" column="12" />
         <mark key="]" line="33" column="29" />
@@ -2004,6 +1990,12 @@
         <mark key="]" line="22" column="68" />
         <mark key="." line="22" column="68" />
         <mark key="^" line="22" column="68" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/third/third.component.ts" timestamp="1538467920931">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+        <mark key="^" line="19" column="10" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/impl/ObservingTemplateImpl.java" timestamp="1538452423913">
         <mark key="[" line="54" column="13" />
@@ -2581,6 +2573,12 @@
         <mark key="." line="32" column="7" />
         <mark key="^" line="32" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/riddle/riddle.component.ts" timestamp="1538467685254">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="22" column="12" />
+      </file>
       <file name="$USER_HOME$/Development/remote-debugging/docker/demo1/production/__init__.py" timestamp="1510104640352">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="15" />
@@ -2653,11 +2651,11 @@
         <mark key="^" line="44" column="38" />
         <mark key="." line="28" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/quiz.storage.ts" timestamp="1538461943204">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-        <mark key="." line="19" column="32" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/quiz.storage.ts" timestamp="1538467911763">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="20" column="17" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/authorization/domain/src/test/java/edu/cfht/authorization/domain/hashed/CollectionAccessTokenFlusherTest.java" timestamp="1511846470180">
         <mark key="[" line="33" column="91" />
@@ -2928,13 +2926,6 @@
         <mark key="]" line="4" column="74" />
         <mark key="." line="4" column="74" />
         <mark key="^" line="4" column="56" />
-      </file>
-      <file name="$USER_HOME$/Development/cfht-api/observing/persistence/proto/src/main/proto/cfhtapi/observing/persistence/subtotals.proto" timestamp="1538006248792">
-        <mark key="'" line="26" column="1" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="45" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/authorization/domain/src/main/java/edu/cfht/authorization/domain/session/UserRepository.java" timestamp="1512527298889">
         <mark key="[" line="15" column="32" />
@@ -3338,12 +3329,12 @@
         <mark key="." line="21" column="104" />
         <mark key="^" line="21" column="104" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" timestamp="1538462728927">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="23" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" timestamp="1538466398644">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/cfhtapi/src/main/java/edu/hawaii/cfht/cfhtapi/boot/ExternalConnectionBootPhase.java" timestamp="1537360346372">
         <mark key="[" line="90" column="87" />
@@ -3362,6 +3353,13 @@
         <mark key="]" line="48" column="48" />
         <mark key="." line="48" column="48" />
         <mark key="^" line="48" column="48" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/third/third.component.html" timestamp="1538468052792">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/impl/dagger/ForObservingBlock.java" timestamp="1526439020166">
         <mark key="[" line="25" column="1" />
@@ -3789,7 +3787,7 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/start/start.component.html" timestamp="1538460802903">
+      <file name="$USER_HOME$/Development/fivehundred/src/app/start/start.component.html" timestamp="1538465219596">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -3855,13 +3853,6 @@
         <mark key="]" line="33" column="12" />
         <mark key="." line="33" column="12" />
         <mark key="^" line="33" column="28" />
-      </file>
-      <file name="$USER_HOME$/Development/cfht-api/authorization/domain/src/main/java/edu/cfht/authorization/domain/session/AuthorizationEntity.java" timestamp="1538451786870">
-        <mark key="'" line="74" column="49" />
-        <mark key="[" line="49" column="38" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="50" column="36" />
-        <mark key="^" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/persistence/pom.xml" timestamp="1526356044671">
         <mark key="[" line="148" column="48" />
@@ -4079,13 +4070,6 @@
         <mark key="^" line="25" column="41" />
         <mark key="." line="25" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/immutables/value-processor/src/org/immutables/value/processor/meta/ValueMirrors.java" timestamp="1538450611074">
-        <mark key="'" line="80" column="31" />
-        <mark key="[" line="229" column="100" />
-        <mark key="]" line="229" column="100" />
-        <mark key="." line="229" column="100" />
-        <mark key="^" line="229" column="100" />
-      </file>
       <file name="$USER_HOME$/Development/cfht-api/authorization/domain/src/main/java/edu/cfht/authorization/domain/session/AuthorizationFactory.java" timestamp="1538451400344">
         <mark key="[" line="35" column="32" />
         <mark key="]" line="35" column="32" />
@@ -4296,11 +4280,11 @@
         <mark key="^" line="122" column="27" />
         <mark key="." line="122" column="69" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/first/first.component.html" timestamp="1538462871090">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="39" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/first/first.component.html" timestamp="1538465633848">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+        <mark key="^" line="0" column="54" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/domain/src/test/java/edu/hawaii/cfht/observing/domain/api/operations/DateTimeTest.java" timestamp="1525150099009">
         <mark key="[" line="68" column="61" />
@@ -4397,13 +4381,6 @@
         <mark key="]" line="25" column="6" />
         <mark key="." line="25" column="6" />
         <mark key="^" line="25" column="6" />
-      </file>
-      <file name="$USER_HOME$/Development/immutables/value-fixture/src/org/immutables/fixture/builder/attribute_builders/ThirdPartyImmutableWithValueInstanceCopyMethod.java" timestamp="1538090729008">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="22" column="23" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/authorization/api/target/generated-sources/protobuf/java/edu/hawaii/cfht/protos/authorization/permissions/GrantOrBuilder.java" timestamp="1510951615997">
         <mark key="[" line="24" column="39" />
@@ -4555,11 +4532,11 @@
         <mark key="." line="20" column="52" />
         <mark key="^" line="20" column="52" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/first/first.component.ts" timestamp="1538462014943">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="14" column="1" />
-        <mark key="^" line="14" column="1" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/first/first.component.ts" timestamp="1538465312254">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/persistence/src/test/java/edu/hawaii/cfht/observing/persistence/domain/MariaDbObservingGroupRepositorySpecificationTest.java" timestamp="1537234006992">
         <mark key="[" line="65" column="63" />
@@ -4608,6 +4585,13 @@
         <mark key="]" line="25" column="27" />
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/riddle/riddle.component.html" timestamp="1538466453513">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+        <mark key="^" line="13" column="53" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/service/container/src/main/java/edu/hawaii/cfht/container/lifecycle/EmptyBootPhaseModule.java" timestamp="1530089289120">
         <mark key="[" line="30" column="33" />
@@ -5761,13 +5745,6 @@
         <mark key="." line="34" column="44" />
         <mark key="^" line="61" column="65" />
       </file>
-      <file name="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/calculator/SubTotals.java" timestamp="1538016939807">
-        <mark key="'" line="192" column="37" />
-        <mark key="[" line="72" column="60" />
-        <mark key="]" line="72" column="75" />
-        <mark key="." line="72" column="75" />
-        <mark key="^" line="72" column="75" />
-      </file>
       <file name="$USER_HOME$/Development/cfht-api/authorization/domain/src/test/java/edu/cfht/authorization/domain/hashed/Sha256AccessTokenHasherTest.java" timestamp="1512510558426">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -5809,6 +5786,12 @@
         <mark key="]" line="36" column="46" />
         <mark key="." line="36" column="46" />
         <mark key="^" line="36" column="45" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/riddle/riddle.component.css" timestamp="1538468131621">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Development/bazel-jooq/flyway/create/bazeljooq/flyway/create/CreateDatabase.java" timestamp="1514425506946">
         <mark key="[" line="21" column="20" />
@@ -5852,13 +5835,6 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/cfht-api/common/proto/src/main/proto/cfhtapi/options.proto" timestamp="1538005382146">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="15" />
-        <mark key="." line="30" column="15" />
-        <mark key="^" line="30" column="15" />
-      </file>
       <file name="$USER_HOME$/Development/cfht-api/account/web/pom.xml" timestamp="1516234166322">
         <mark key="[" line="49" column="64" />
         <mark key="]" line="53" column="71" />
@@ -5870,13 +5846,6 @@
         <mark key="]" line="32" column="47" />
         <mark key="." line="32" column="47" />
         <mark key="^" line="32" column="47" />
-      </file>
-      <file name="$USER_HOME$/Development/cfht-api/observing/domain/specification/src/main/java/edu/hawaii/cfht/observing/domain/specification/PersistenceFactory.java" timestamp="1538017247233">
-        <mark key="'" line="266" column="44" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="72" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/api/exposure/ExposureAttribution.java" timestamp="1519726676678">
         <mark key="[" line="32" column="21" />
@@ -5967,13 +5936,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="34" column="33" />
-      </file>
-      <file name="$USER_HOME$/Development/cfht-api/observing/queue/src/main/java/edu/hawaii/cfht/observing/queue/action/QueueToolsService.java" timestamp="1538017079114">
-        <mark key="'" line="102" column="8" />
-        <mark key="[" line="38" column="40" />
-        <mark key="]" line="38" column="51" />
-        <mark key="^" line="38" column="51" />
-        <mark key="." line="38" column="51" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/domain/specification/src/main/java/edu/hawaii/cfht/observing/domain/specification/ProgramRepositorySpecificationTest.java" timestamp="1512181952131">
         <mark key="[" line="2" column="42" />
@@ -6107,11 +6069,11 @@
         <mark key="." line="224" column="0" />
         <mark key="^" line="274" column="111" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.ts" timestamp="1538463116800">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="26" column="5" />
-        <mark key="." line="26" column="5" />
-        <mark key="^" line="26" column="5" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.ts" timestamp="1538466538356">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="37" column="50" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/service/jobqueue-service/src/main/java/edu/hawaii/cfht/service/jobqueue/service/JobqueueService.java" timestamp="1536368045477">
         <mark key="[" line="36" column="24" />
@@ -6407,6 +6369,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/fourth/fourth.component.ts" timestamp="1538467612488">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/Development/cfht-api/account/web/.angular-cli.json" timestamp="1521669596356">
         <mark key="[" line="11" column="38" />
         <mark key="]" line="11" column="46" />
@@ -6551,11 +6519,11 @@
         <mark key="^" line="13" column="45" />
         <mark key="." line="13" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/app.module.ts" timestamp="1538461929497">
-        <mark key="[" line="43" column="14" />
-        <mark key="]" line="44" column="40" />
-        <mark key="." line="44" column="40" />
-        <mark key="^" line="44" column="40" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/app.module.ts" timestamp="1538467779903">
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
+        <mark key="^" line="37" column="29" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/queue/src/test/java/edu/hawaii/cfht/observing/queue/breaker/EspadonsBreakerTest.java" timestamp="1537309704066">
         <mark key="[" line="63" column="62" />
@@ -6845,13 +6813,6 @@
         <mark key="^" line="23" column="55" />
         <mark key="." line="23" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/cfht-api/observing/piapi/testhelpers/src/main/java/edu/hawaii/cfht/observing/piapi/testhelpers/ApiFactory.java" timestamp="1538044013974">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="20" column="113" />
-        <mark key="]" line="20" column="113" />
-        <mark key="^" line="20" column="114" />
-        <mark key="." line="20" column="113" />
-      </file>
       <file name="$USER_HOME$/Development/cfht-api/authorization/service/src/main/java/edu/hawaii/cfht/authorization/service/program/creator/persistence/ProgramPersistence.java" timestamp="1500166708932">
         <mark key="[" line="27" column="72" />
         <mark key="]" line="27" column="89" />
@@ -6905,13 +6866,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="24" column="25" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/immutables/value-fixture/src/org/immutables/fixture/builder/attribute_builders/ProtoImmutable.java" timestamp="1538092214264">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="57" column="44" />
-        <mark key="]" line="57" column="44" />
-        <mark key="." line="57" column="44" />
-        <mark key="^" line="57" column="44" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/cfhtapi/src/assembly/bin.xml" timestamp="1520551947202">
         <mark key="[" line="20" column="23" />
@@ -7237,11 +7191,11 @@
         <mark key="." line="8" column="83" />
         <mark key="^" line="8" column="71" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/start/start.component.ts" timestamp="1538460256544">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="27" column="37" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/start/start.component.ts" timestamp="1538464812910">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="22" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/queue/src/test/resources/fixtures/fp-seq1-star-sky-before-and-after/config.txt" timestamp="1537483554632">
         <mark key="[" line="9" column="25" />
@@ -7783,13 +7737,6 @@
         <mark key="^" line="12" column="61" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/cfht-api/account/web/src/app/home/qso/exposure-logs/exposure-log.component.ts" timestamp="1537929100678">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="138" column="106" />
-        <mark key="]" line="138" column="106" />
-        <mark key="^" line="138" column="106" />
-        <mark key="." line="138" column="106" />
-      </file>
       <file name="$USER_HOME$/Development/cfht-api/service/grpc-config/src/main/java/edu/hawaii/cfht/service/grpc/config/exposed_api/ExposedApisConfigurationModule.java" timestamp="1529406159554">
         <mark key="[" line="46" column="13" />
         <mark key="]" line="46" column="13" />
@@ -7960,13 +7907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/Development/cfht-api/dbsyncer/src/main/java/edu/hawaii/cfht/dbsyncer/DbSyncerMount.java" />
-      <jump line="169" column="52" filename="$USER_HOME$/Development/cfht-api/cfhtapi/src/test/java/edu/hawaii/cfht/cfhtapi/acceptance/AcceptanceTest.java" />
-      <jump line="207" column="101" filename="$USER_HOME$/Development/cfht-api/cfhtapi/src/main/java/edu/hawaii/cfht/cfhtapi/boot/ApplicationBootPhase.java" />
-      <jump line="215" column="34" filename="$USER_HOME$/Development/cfht-api/cfhtapi/src/main/java/edu/hawaii/cfht/cfhtapi/boot/ApplicationBootPhase.java" />
-      <jump line="303" column="20" filename="$USER_HOME$/Development/cfht-api/cfhtapi/src/test/java/edu/hawaii/cfht/cfhtapi/acceptance/AcceptanceTest.java" />
-      <jump line="455" column="26" filename="$USER_HOME$/Development/cfht-api/observing/queue/src/main/java/edu/hawaii/cfht/observing/queue/breaker/Instruction.java" />
-      <jump line="595" column="0" filename="$USER_HOME$/Development/cfht-api/observing/queue/src/test/java/edu/hawaii/cfht/observing/queue/breaker/SpirouBreakerTest.java" />
       <jump line="641" column="0" filename="$USER_HOME$/Development/cfht-api/observing/queue/src/test/java/edu/hawaii/cfht/observing/queue/breaker/SpirouBreakerTest.java" />
       <jump line="634" column="0" filename="$USER_HOME$/Development/cfht-api/observing/queue/src/test/java/edu/hawaii/cfht/observing/queue/breaker/SpirouBreakerTest.java" />
       <jump line="141" column="4" filename="$USER_HOME$/Development/cfht-api/observing/queue/src/test/java/edu/hawaii/cfht/observing/queue/breaker/SpirouExposureConfigurationConverterTest.java" />
@@ -8060,6 +8000,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.html" />
       <jump line="20" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.css" />
       <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.css" />
+      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/second/second.component.html" />
+      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/riddle/riddle.component.html" />
+      <jump line="20" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" />
+      <jump line="19" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/riddle/riddle.component.html" />
+      <jump line="19" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/second/second.component.html" />
+      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/third/third.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -8104,7 +8051,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb250LWNvbG9yCg==</text>
       </register>
       <register name="b" type="4">
         <text>b</text>
@@ -11230,7 +11177,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>but</text>
       </register>
       <register name="/" type="4">
         <text>outcom</text>
@@ -13905,34 +13852,34 @@
         <text encoding="base64">PHAgY2xhc3M9InByb3MiPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb250LWNvbG9yCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucXVpei5yZWluZGVlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKTsK</text>
+        <text encoding="base64">ICBAT3V0cHV0KCkgZmFpbCA9IG5ldyBFdmVudEVtaXR0ZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9uTGlzdC5wdXNoKHRoaXMub3B0aW9uc1tvcHRpb25dKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InF1aXoiICpuZ0Zvcj0ibGV0IG9wdGlvbiBvZiBvcHRpb25MaXN0KCkiIFt2YWx1ZV09Im9wdGlvbiI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImZ1Y2siKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb250LWNvbG8K</text>
+        <text encoding="base64">PC9wPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
