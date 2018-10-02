@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="TypeScript/Generate reference path comment" />
+  </component>
+</application>

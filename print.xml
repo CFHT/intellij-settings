@@ -1,0 +1,9 @@
+<application>
+  <component name="PrintSettings">
+    <option name="printScope" value="1" />
+    <option name="PAPER_SIZE" value="Engineering B" />
+    <option name="PORTRAIT_LAYOUT" value="false" />
+    <option name="FONT_NAME" value="Courier" />
+    <option name="FONT_SIZE" value="6" />
+  </component>
+</application>
