@@ -1606,11 +1606,11 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/cfht-api/observing/persistence/proto/src/main/proto/cfhtapi/observing/persistence/observing_group.proto" timestamp="1538513790420">
-        <mark key="[" line="58" column="56" />
-        <mark key="]" line="58" column="65" />
-        <mark key="." line="58" column="65" />
-        <mark key="^" line="58" column="65" />
+      <file name="$USER_HOME$/Development/cfht-api/observing/persistence/proto/src/main/proto/cfhtapi/observing/persistence/observing_group.proto" timestamp="1538516483650">
+        <mark key="[" line="59" column="70" />
+        <mark key="]" line="59" column="84" />
+        <mark key="." line="59" column="84" />
+        <mark key="^" line="59" column="84" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/authorization/domain/src/main/java/edu/cfht/authorization/domain/hashed/Sha256AccessTokenHasher.java" timestamp="1511823806416">
         <mark key="[" line="9" column="4" />
@@ -8205,8 +8205,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>objects</text>
       </register>
       <register name="b" type="4">
         <text>b</text>
@@ -11332,7 +11332,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>READ</text>
+        <text>objects</text>
       </register>
       <register name="/" type="4">
         <text>outcom</text>
