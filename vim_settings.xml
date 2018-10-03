@@ -4795,12 +4795,12 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" timestamp="1538545472366">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
-        <mark key="^" line="0" column="29" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" timestamp="1538548067068">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/common/proto/src/main/proto/google/api/annotations.proto" timestamp="1518236187101">
         <mark key="[" line="16" column="14" />
@@ -8213,7 +8213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/third/third.component.html" />
       <jump line="61" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/first/first.component.html" />
       <jump line="10" column="69" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fourth/fourth.component.html" />
       <jump line="31" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.html" />
@@ -8313,6 +8312,7 @@
       <jump line="67" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" />
       <jump line="10" column="35" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.ts" />
       <jump line="46" column="2" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -8356,8 +8356,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAicGF0aHMiOiB7CiAgICAidW5kZXJzY29yZSI6ICIuL25vZGVfbW9kdWxlcy91bmRlcnNjb3JlL3VuZGVyc2NvcmUuanMiCiAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="b" type="4">
         <text>b</text>
@@ -11483,7 +11483,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>invert</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>outcom</text>
