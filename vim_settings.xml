@@ -484,10 +484,9 @@
         <mark key="." line="20" column="26" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/cfhtapi/src/test/java/edu/hawaii/cfht/cfhtapi/acceptance/ObservingGroupAcceptanceTest.java" timestamp="1538541589521">
-        <mark key="'" line="243" column="8" />
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
+        <mark key="[" line="330" column="0" />
+        <mark key="]" line="330" column="0" />
+        <mark key="." line="330" column="0" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/service/pubsub-element/src/main/java/edu/hawaii/cfht/service/pubsub/element/TypedEventSubscriber.java" timestamp="1537171499206">
         <mark key="[" line="42" column="24" />
@@ -1733,10 +1732,9 @@
         <mark key="." line="12" column="50" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/cfhtapi/util/src/main/java/edu/hawaii/cfht/cfhtapi/util/spirou/FirstSpirouQueue.java" timestamp="1538542426859">
-        <mark key="[" line="148" column="70" />
-        <mark key="]" line="149" column="34" />
-        <mark key="^" line="149" column="34" />
-        <mark key="." line="149" column="34" />
+        <mark key="]" line="20" column="34" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="20" column="34" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/sybase/persistence/src/main/java/edu/hawaii/cfht/sybase/persistence/SybasePersistenceLifecycleModule.java" timestamp="1532121458857">
         <mark key="[" line="10" column="13" />
@@ -3597,10 +3595,10 @@
         <mark key="^" line="83" column="33" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/cfhtapi/util/src/main/java/edu/hawaii/cfht/cfhtapi/util/spirou/SpirouAbstract.java" timestamp="1538542186806">
-        <mark key="[" line="200" column="39" />
-        <mark key="]" line="200" column="42" />
-        <mark key="^" line="200" column="42" />
-        <mark key="." line="200" column="42" />
+        <mark key="[" line="203" column="39" />
+        <mark key="]" line="203" column="42" />
+        <mark key="^" line="203" column="42" />
+        <mark key="." line="203" column="42" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/piapi/src/main/java/edu/hawaii/cfht/observing/piapi/repositories/ForBridge.java" timestamp="1536718718211">
         <mark key="[" line="26" column="0" />
