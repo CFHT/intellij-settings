@@ -232,6 +232,13 @@
         <mark key="." line="188" column="0" />
         <mark key="^" line="191" column="17" />
       </file>
+      <file name="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/api/observing_group/AbstractObservingGroupRepository.java" timestamp="1538535990637">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="37" column="44" />
+        <mark key="]" line="37" column="44" />
+        <mark key="." line="37" column="44" />
+        <mark key="^" line="37" column="43" />
+      </file>
       <file name="$USER_HOME$/Development/cfht-api/observing/persistence/proto/src/main/proto/cfhtapi/observing/queue.proto" timestamp="1518661996498">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="39" />
@@ -1511,11 +1518,11 @@
         <mark key="^" line="6" column="67" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/impl/timeconstrained/TimeConstraintStrategyReifier.java" timestamp="1538052879604">
-        <mark key="[" line="39" column="71" />
-        <mark key="]" line="39" column="71" />
-        <mark key="." line="39" column="71" />
-        <mark key="^" line="39" column="58" />
+      <file name="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/impl/timeconstrained/TimeConstraintStrategyReifier.java" timestamp="1538535812803">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="27" column="68" />
+        <mark key="." line="27" column="68" />
+        <mark key="^" line="27" column="68" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/common/testhelpers/src/main/java/edu/hawaii/cfht/common/testhelpers/BootHelper.java" timestamp="1537419479047">
         <mark key="[" line="31" column="63" />
@@ -1715,6 +1722,12 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
         <mark key="^" line="20" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/api/observing_group/ObservingGroupRepository.java" timestamp="1538535312241">
+        <mark key="[" line="35" column="20" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+        <mark key="^" line="35" column="37" />
       </file>
       <file name="$USER_HOME$/Development/cfht-api/authorization/service/src/main/java/edu/hawaii/cfht/authorization/service/action/BearerTokenService.java" timestamp="1525402987959">
         <mark key="[" line="110" column="0" />
@@ -8120,9 +8133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.css" />
-      <jump line="4" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" />
-      <jump line="11" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.css" />
       <jump line="6" column="4" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" />
       <jump line="8" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" />
       <jump line="14" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.html" />
@@ -8220,6 +8230,9 @@
       <jump line="166" column="8" filename="$USER_HOME$/Development/cfht-api/authorization/domain/specification/src/main/java/edu/hawaii/cfht/authorization/domain/specification/AuthorizationDomainSpecification.java" />
       <jump line="45" column="0" filename="$USER_HOME$/Development/cfht-api/observing/piapi/src/main/java/edu/hawaii/cfht/observing/piapi/action/ObservingGroupService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/cfht-api/sybase/sybase-observing-domain/src/main/java/edu/hawaii/cfht/observing/sybase/domain/observing_groups/SybaseObservingGroupRepository.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/api/observing_group/ObservingGroupRepository.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/api/observing_group/ObservingGroupRepository.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/api/observing_group/AbstractObservingGroupRepository.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -8264,7 +8277,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>setReadSubtotals</text>
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <text>b</text>
@@ -11390,7 +11403,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setReadSubtotals</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>outcom</text>
@@ -14069,34 +14082,34 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvdGVjdGVkIFNlc3Npb25EYXRhIGdldFNlc3Npb25EYXRhKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFRpbWVDb25zdHJhaW50UmVpZmllciBnZXRSZWlmaWVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvdGVjdGVkIFNlc3Npb25EYXRhIGdldFNlc3Npb25EYXRhKCkgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bWVzc2FnZSBBcGkgewogICAgLyoqCiAgICAgKiBCaXQgZmllbGQuCiAgICAgKi8KICAgIGludDMyIG1vZGlmaWVyID0gMTsKfQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIE9ic2VydmluZ0dyb3VwRmFjdG9yeSBnZXRGYWN0b3J5KCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZmF1bHQgT2JzZXJ2aW5nR3JvdXAgcGVyc2lzdChPYnNlcnZpbmdHcm91cFRoaW4gdG9QZXJzaXN0KSAgewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
