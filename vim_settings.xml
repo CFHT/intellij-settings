@@ -3,34 +3,41 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/thirteen/thirteen.component.html" timestamp="1538479451950">
-        <mark key="'" line="1" column="11" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/thirteen/thirteen.component.html" timestamp="1538548646433">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/second/second.component.html" timestamp="1538479230033">
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/second/second.component.html" timestamp="1538548081395">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="50" />
         <mark key="^" line="0" column="62" />
         <mark key="." line="0" column="50" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/fourth/fourth.component.html" timestamp="1538479318892">
+      <file name="$USER_HOME$/Development/cfht-api/cfhtapi/src/test/java/edu/hawaii/cfht/cfhtapi/acceptance/ObservingGroupAcceptanceTest.java" timestamp="1538541589521">
+        <mark key="[" line="330" column="0" />
+        <mark key="]" line="330" column="0" />
+        <mark key="." line="330" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/game/game.component.ts" timestamp="1538550833144">
+        <mark key="'" line="37" column="2" />
+        <mark key="[" line="92" column="44" />
+        <mark key="]" line="92" column="44" />
+        <mark key="." line="92" column="44" />
+        <mark key="^" line="92" column="44" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/fourth/fourth.component.html" timestamp="1538548137640">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="21" />
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/styles.css" timestamp="1538475958051">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-      </file>
+      <file name="$USER_HOME$/Development/cfht-api/common/proto/src/main/proto/cfhtapi/events.proto" timestamp="1538523071098" />
+      <file name="$USER_HOME$/Development/fivehundred/node_modules/underscore/underscore.js" timestamp="1538549901110" />
       <file name="$USER_HOME$/Development/fivehundred/src/app/end-success/first-success/first-success.component.ts" timestamp="1538478468886">
         <mark key="'" line="40" column="4" />
         <mark key="[" line="40" column="5" />
@@ -38,43 +45,71 @@
         <mark key="." line="42" column="16" />
         <mark key="^" line="42" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/tenth/tenth.component.html" timestamp="1538479411719">
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/tenth/tenth.component.html" timestamp="1538548558985">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="79" />
         <mark key="]" line="0" column="79" />
         <mark key="." line="0" column="79" />
         <mark key="^" line="0" column="79" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.html" timestamp="1538479363008">
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.html" timestamp="1538548308936">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="10" />
         <mark key="^" line="24" column="3" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/end-fail/end-fail.component.ts" timestamp="1538475895626">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="18" column="49" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="^" line="19" column="16" />
+      <file name="$USER_HOME$/Development/cfht-api/observing/persistence/proto/src/main/proto/cfhtapi/observing/persistence/observing_group.proto" timestamp="1538542212126">
+        <mark key="[" line="77" column="4" />
+        <mark key="]" line="77" column="9" />
+        <mark key="." line="77" column="9" />
+        <mark key="^" line="77" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.html" timestamp="1538479389730">
+      <file name="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/impl/timeconstrained/reifier/TimeConstraintReifierModule.java" timestamp="1538538676144">
+        <mark key="[" line="37" column="74" />
+        <mark key="]" line="37" column="57" />
+        <mark key="." line="37" column="57" />
+        <mark key="^" line="37" column="57" />
+      </file>
+      <file name="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/api/observing_group/ObservingGroupOrBuilder.java" timestamp="1538540451626">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.html" timestamp="1538548504818">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="81" />
         <mark key="]" line="0" column="81" />
         <mark key="." line="0" column="81" />
         <mark key="^" line="0" column="81" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/fifteen/fifteen.component.html" timestamp="1538479468517">
+      <file name="$USER_HOME$/Development/cfht-api/sybase/sybase-observing-domain/src/main/java/edu/hawaii/cfht/observing/sybase/domain/observing_groups/SybaseObservingGroupRepository.java" timestamp="1538537557359">
+        <mark key="'" line="887" column="48" />
+        <mark key="[" line="887" column="48" />
+        <mark key="]" line="887" column="48" />
+        <mark key="." line="887" column="48" />
+        <mark key="^" line="887" column="47" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/fifteen/fifteen.component.html" timestamp="1538548730662">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="45" />
         <mark key="]" line="0" column="46" />
         <mark key="." line="0" column="46" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/quiz.storage.ts" timestamp="1538509863997">
-        <mark key="'" line="8" column="11" />
+      <file name="$USER_HOME$/Development/cfht-api/authorization/domain-memory/src/main/java/edu/hawaii/cfht/authorization/InMemoryAuthorizationRepository.java" timestamp="1538532924770">
+        <mark key="[" line="83" column="8" />
+        <mark key="]" line="83" column="8" />
+        <mark key="." line="83" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/riddle/riddle.component.ts" timestamp="1538470816517">
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="26" column="5" />
+        <mark key="^" line="26" column="5" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/quiz.storage.ts" timestamp="1538551372857">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="9" />
         <mark key="]" line="8" column="10" />
         <mark key="." line="7" column="9" />
@@ -87,21 +122,20 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" timestamp="1538466398644">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="30" />
+      <file name="$USER_HOME$/Development/cfht-api/dbsyncer/src/main/java/edu/hawaii/cfht/dbsyncer/ProgramCalculator.java" timestamp="1538533594015">
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="7" />
+        <mark key="^" line="57" column="7" />
+        <mark key="." line="57" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/third/third.component.html" timestamp="1538479243049">
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/third/third.component.html" timestamp="1538548641649">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="5" column="24" />
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/eleventh/eleventh.component.html" timestamp="1538479422631">
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/eleventh/eleventh.component.html" timestamp="1538548593597">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="53" />
@@ -115,26 +149,49 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="15" column="51" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/fourteen/fourteen.component.html" timestamp="1538479459557">
+      <file name="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/impl/timeconstrained/reifier/ReifierKey.java" timestamp="1538538395848">
+        <mark key="[" line="25" column="109" />
+        <mark key="]" line="25" column="109" />
+        <mark key="^" line="25" column="108" />
+        <mark key="." line="25" column="109" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/fourteen/fourteen.component.html" timestamp="1538548680977">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="8" />
         <mark key="]" line="10" column="18" />
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/first/first.component.html" timestamp="1538479216630">
+      <file name="$USER_HOME$/Development/cfht-api/observing/queue/src/main/java/edu/hawaii/cfht/observing/queue/breaker/SpirouBreaker.java" timestamp="1538520134268">
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="43" column="43" />
+        <mark key="." line="43" column="43" />
+        <mark key="^" line="43" column="43" />
+      </file>
+      <file name="$USER_HOME$/Development/cfht-api/observing/persistence/src/main/java/edu/hawaii/cfht/observing/persistence/domain/dagger/MariaDbFactoryModule.java" timestamp="1538538814858">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="20" column="48" />
+        <mark key="." line="20" column="48" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/first/first.component.html" timestamp="1538545376735">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="88" />
         <mark key="]" line="0" column="88" />
         <mark key="." line="0" column="88" />
         <mark key="^" line="0" column="87" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/seventh/seventh.component.html" timestamp="1538479378282">
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/seventh/seventh.component.html" timestamp="1538548477322">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/first/first.component.ts" timestamp="1538548860364">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.css" timestamp="1538479548242">
         <mark key="'" line="6" column="0" />
@@ -150,42 +207,115 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/riddle/riddle.component.html" timestamp="1538466453513">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="13" column="48" />
-        <mark key="]" line="13" column="53" />
-        <mark key="." line="13" column="53" />
-        <mark key="^" line="13" column="53" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" timestamp="1538551079115">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="73" />
+        <mark key="]" line="67" column="74" />
+        <mark key="." line="67" column="74" />
+        <mark key="^" line="256" column="114" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/twelfth/twelfth.component.html" timestamp="1538479437471">
+      <file name="$USER_HOME$/Development/fivehundred/src/app/app.component.ts" timestamp="1538551502875">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/angular.json" timestamp="1538475838736">
+        <mark key="[" line="90" column="37" />
+        <mark key="]" line="90" column="37" />
+        <mark key="." line="90" column="37" />
+        <mark key="^" line="90" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/cfht-api/observing/piapi/src/main/java/edu/hawaii/cfht/observing/piapi/repositories/BridgeObservingGroupRepository.java" timestamp="1538537232504">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="70" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/twelfth/twelfth.component.html" timestamp="1538548618523">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="90" />
         <mark key="]" line="4" column="85" />
         <mark key="." line="4" column="85" />
         <mark key="^" line="4" column="85" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/ninth/ninth.component.html" timestamp="1538479402904">
+      <file name="$USER_HOME$/Development/cfht-api/observing/queue/src/main/java/edu/hawaii/cfht/observing/queue/breaker/dagger/ExposureScopedModule.java" timestamp="1538532047353">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="69" column="66" />
+        <mark key="]" line="69" column="80" />
+        <mark key="." line="69" column="80" />
+        <mark key="^" line="69" column="80" />
+      </file>
+      <file name="$USER_HOME$/Development/cfht-api/observing/queue/proto/src/main/proto/cfhtapi/queue/queue_service.proto" timestamp="1538539824592">
+        <mark key="[" line="10" column="49" />
+        <mark key="]" line="10" column="48" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="10" column="48" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/ninth/ninth.component.html" timestamp="1538548526459">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/sixth/sixth.component.html" timestamp="1538479369667">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="73" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Development/cfht-api/common/proto/src/main/proto/cfhtapi/options.proto" timestamp="1538523179512">
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="51" column="42" />
+        <mark key="." line="51" column="42" />
+        <mark key="^" line="51" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.ts" timestamp="1538479384640">
+      <file name="$USER_HOME$/Development/cfht-api/observing/persistence/proto/src/main/proto/cfhtapi/observing/persistence/queue.proto" timestamp="1538539808250" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.ts" timestamp="1538550658201">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/tsconfig.json" timestamp="1538547141575">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/fourth/fourth.component.ts" timestamp="1538470751707">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/app.module.ts" timestamp="1538549687149">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/cfht-api/cfhtapi/src/test/java/edu/hawaii/cfht/cfhtapi/acceptance/PublicApiAcceptanceTest.java" timestamp="1538541998872">
+        <mark key="[" line="366" column="21" />
+        <mark key="]" line="366" column="46" />
+        <mark key="^" line="366" column="46" />
+        <mark key="." line="366" column="46" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.ts" timestamp="1538548953516">
         <mark key="'" line="8" column="1" />
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="33" />
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/tenth/tenth.component.ts" timestamp="1538476209656">
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.ts" timestamp="1538550752963">
+        <mark key="[" line="27" column="50" />
+        <mark key="]" line="27" column="54" />
+        <mark key="^" line="27" column="54" />
+        <mark key="." line="27" column="54" />
+      </file>
+      <file name="$USER_HOME$/Development/cfht-api/README.md" timestamp="1538532573180" />
+      <file name="$USER_HOME$/Development/fivehundred/src/app/pages/tenth/tenth.component.ts" timestamp="1538548976187">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="36" />
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
+      </file>
+      <file name="$USER_HOME$/Development/fivehundred/src/app/start/start.component.ts" timestamp="1538549481877">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="37" />
+        <mark key="^" line="20" column="37" />
       </file>
       <file name="$USER_HOME$/Development/fivehundred/src/app/end-fail/end-fail.component.html" timestamp="1538479514515">
         <mark key="'" line="0" column="0" />
@@ -196,61 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="5" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.html" />
-      <jump line="5" column="2" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.css" />
-      <jump line="5" column="2" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.html" />
-      <jump line="7" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.css" />
-      <jump line="13" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.css" />
-      <jump line="4" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" />
-      <jump line="11" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.css" />
-      <jump line="6" column="4" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" />
-      <jump line="8" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" />
-      <jump line="14" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.html" />
-      <jump line="71" column="49" filename="$USER_HOME$/Development/cfht-api/authorization/domain/src/main/java/edu/cfht/authorization/domain/session/AuthorizationEntity.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/app.component.html" />
-      <jump line="7" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/app.component.html" />
-      <jump line="15" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/app.component.scss" />
-      <jump line="22" column="182" filename="$USER_HOME$/Development/fivehundred/src/styles.css" />
-      <jump line="20" column="8" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.html" />
-      <jump line="20" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.css" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.css" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/second/second.component.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/riddle/riddle.component.html" />
-      <jump line="20" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.html" />
-      <jump line="19" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/riddle/riddle.component.html" />
-      <jump line="19" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/second/second.component.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/third/third.component.html" />
-      <jump line="61" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/first/first.component.html" />
-      <jump line="10" column="69" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fourth/fourth.component.html" />
-      <jump line="31" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.html" />
-      <jump line="28" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.html" />
-      <jump line="21" column="7" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.html" />
-      <jump line="4" column="15" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.html" />
-      <jump line="18" column="12" filename="$USER_HOME$/Development/fivehundred/src/app/pages/sixth/sixth.component.html" />
-      <jump line="9" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/sixth/sixth.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/sixth/sixth.component.html" />
-      <jump line="12" column="12" filename="$USER_HOME$/Development/fivehundred/src/app/pages/seventh/seventh.component.html" />
-      <jump line="3" column="38" filename="$USER_HOME$/Development/fivehundred/src/app/pages/seventh/seventh.component.html" />
-      <jump line="9" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.html" />
-      <jump line="7" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.html" />
-      <jump line="11" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.html" />
-      <jump line="12" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.html" />
-      <jump line="10" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/tenth/tenth.component.html" />
-      <jump line="8" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/tenth/tenth.component.html" />
-      <jump line="38" column="23" filename="$USER_HOME$/Development/fivehundred/src/app/quiz.storage.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/tenth/tenth.component.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eleventh/eleventh.component.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/twelfth/twelfth.component.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/thirteen/thirteen.component.html" />
-      <jump line="1" column="12" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fourteen/fourteen.component.html" />
-      <jump line="11" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifteen/fifteen.component.html" />
-      <jump line="50" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz.storage.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifteen/fifteen.component.html" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/sixtneen/sixtneen.component.html" />
-      <jump line="9" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/sixtneen/sixtneen.component.html" />
       <jump line="8" column="7" filename="$USER_HOME$/Development/fivehundred/src/app/pages/sixtneen/sixtneen.component.html" />
       <jump line="11" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/end-fail/end-fail.component.html" />
       <jump line="4" column="19" filename="$USER_HOME$/Development/fivehundred/src/app/end-fail/end-fail.component.html" />
@@ -264,30 +339,16 @@
       <jump line="4" column="5" filename="$USER_HOME$/Development/fivehundred/src/app/end-success/first-success/first-success.component.html" />
       <jump line="22" column="59" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/start/start.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/first/first.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/second/second.component.html" />
       <jump line="13" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/third/third.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/third/third.component.html" />
       <jump line="15" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fourth/fourth.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fourth/fourth.component.html" />
       <jump line="23" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.html" />
-      <jump line="8" column="13" filename="$USER_HOME$/Development/fivehundred/src/app/pages/sixth/sixth.component.html" />
       <jump line="11" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/seventh/seventh.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/seventh/seventh.component.html" />
       <jump line="8" column="1" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.ts" />
       <jump line="13" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/ninth/ninth.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/tenth/tenth.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eleventh/eleventh.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/twelfth/twelfth.component.html" />
       <jump line="13" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/thirteen/thirteen.component.html" />
       <jump line="1" column="11" filename="$USER_HOME$/Development/fivehundred/src/app/pages/thirteen/thirteen.component.html" />
       <jump line="12" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fourteen/fourteen.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fourteen/fourteen.component.html" />
       <jump line="14" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifteen/fifteen.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifteen/fifteen.component.html" />
       <jump line="11" column="30" filename="$USER_HOME$/Development/fivehundred/src/app/end-success/first-success/first-success.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/end-success/first-success/first-success.component.html" />
       <jump line="16" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/end-fail/end-fail.component.html" />
@@ -296,6 +357,75 @@
       <jump line="1" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/money/money.component.html" />
       <jump line="6" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz/quiz.component.css" />
       <jump line="8" column="11" filename="$USER_HOME$/Development/fivehundred/src/app/quiz.storage.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/Development/cfht-api/observing/domain/src/test/java/edu/hawaii/cfht/observing/domain/impl/timeconstrained/reifier/SamplingReifierTest.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Development/cfht-api/observing/queue/src/main/java/edu/hawaii/cfht/observing/queue/breaker/dagger/ExposureScopedModule.java" />
+      <jump line="166" column="8" filename="$USER_HOME$/Development/cfht-api/authorization/domain/specification/src/main/java/edu/hawaii/cfht/authorization/domain/specification/AuthorizationDomainSpecification.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Development/cfht-api/observing/piapi/src/main/java/edu/hawaii/cfht/observing/piapi/action/ObservingGroupService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/cfht-api/sybase/sybase-observing-domain/src/main/java/edu/hawaii/cfht/observing/sybase/domain/observing_groups/SybaseObservingGroupRepository.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/api/observing_group/ObservingGroupRepository.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/api/observing_group/ObservingGroupRepository.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/api/observing_group/AbstractObservingGroupRepository.java" />
+      <jump line="19" column="13" filename="$USER_HOME$/Development/cfht-api/observing/domain/memory-impl/src/main/java/edu/hawaii/cfht/observing/domain/memory/observing_group/InMemoryObservingGroupRepository.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/Development/cfht-api/observing/domain/memory-impl/src/main/java/edu/hawaii/cfht/observing/domain/memory/observing_group/InMemoryObservingGroupRepository.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/Development/cfht-api/observing/domain/memory-impl/src/main/java/edu/hawaii/cfht/observing/domain/memory/observing_group/InMemoryObservingGroupRepository.java" />
+      <jump line="59" column="13" filename="$USER_HOME$/Development/cfht-api/observing/persistence/src/main/java/edu/hawaii/cfht/observing/persistence/domain/MariaDbObservingGroupRepository.java" />
+      <jump line="322" column="0" filename="$USER_HOME$/Development/cfht-api/observing/persistence/src/main/java/edu/hawaii/cfht/observing/persistence/domain/MariaDbObservingGroupRepository.java" />
+      <jump line="102" column="7" filename="$USER_HOME$/Development/cfht-api/sybase/sybase-observing-domain/src/main/java/edu/hawaii/cfht/observing/sybase/domain/observing_groups/SybaseObservingGroupRepository.java" />
+      <jump line="884" column="0" filename="$USER_HOME$/Development/cfht-api/sybase/sybase-observing-domain/src/main/java/edu/hawaii/cfht/observing/sybase/domain/observing_groups/SybaseObservingGroupRepository.java" />
+      <jump line="887" column="48" filename="$USER_HOME$/Development/cfht-api/sybase/sybase-observing-domain/src/main/java/edu/hawaii/cfht/observing/sybase/domain/observing_groups/SybaseObservingGroupRepository.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/Development/cfht-api/observing/domain/src/main/java/edu/hawaii/cfht/observing/domain/calculator/SubTotals.java" />
+      <jump line="269" column="0" filename="$USER_HOME$/Development/cfht-api/cfhtapi/src/test/java/edu/hawaii/cfht/cfhtapi/acceptance/ObservingGroupAcceptanceTest.java" />
+      <jump line="243" column="8" filename="$USER_HOME$/Development/cfht-api/cfhtapi/src/test/java/edu/hawaii/cfht/cfhtapi/acceptance/ObservingGroupAcceptanceTest.java" />
+      <jump line="20" column="41" filename="$USER_HOME$/Development/fivehundred/src/app/pages/first/first.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/first/first.component.html" />
+      <jump line="68" column="10" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" />
+      <jump line="10" column="35" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.ts" />
+      <jump line="46" column="2" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.ts" />
+      <jump line="9" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" />
+      <jump line="15" column="11" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" />
+      <jump line="18" column="13" filename="$USER_HOME$/Development/fivehundred/src/app/pages/second/second.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/second/second.component.html" />
+      <jump line="67" column="29" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" />
+      <jump line="12" column="13" filename="$USER_HOME$/Development/fivehundred/src/app/pages/third/third.component.html" />
+      <jump line="14" column="13" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fourth/fourth.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fourth/fourth.component.html" />
+      <jump line="12" column="31" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifth/fifth.component.html" />
+      <jump line="8" column="13" filename="$USER_HOME$/Development/fivehundred/src/app/pages/sixth/sixth.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/sixth/sixth.component.html" />
+      <jump line="10" column="13" filename="$USER_HOME$/Development/fivehundred/src/app/pages/seventh/seventh.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/seventh/seventh.component.html" />
+      <jump line="12" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eighth/eighth.component.html" />
+      <jump line="9" column="13" filename="$USER_HOME$/Development/fivehundred/src/app/pages/ninth/ninth.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/ninth/ninth.component.html" />
+      <jump line="12" column="11" filename="$USER_HOME$/Development/fivehundred/src/app/pages/tenth/tenth.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/tenth/tenth.component.html" />
+      <jump line="191" column="12" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" />
+      <jump line="14" column="13" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eleventh/eleventh.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/eleventh/eleventh.component.html" />
+      <jump line="203" column="58" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" />
+      <jump line="8" column="13" filename="$USER_HOME$/Development/fivehundred/src/app/pages/twelfth/twelfth.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/twelfth/twelfth.component.html" />
+      <jump line="219" column="80" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/third/third.component.html" />
+      <jump line="12" column="13" filename="$USER_HOME$/Development/fivehundred/src/app/pages/thirteen/thirteen.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/thirteen/thirteen.component.html" />
+      <jump line="11" column="13" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fourteen/fourteen.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fourteen/fourteen.component.html" />
+      <jump line="13" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifteen/fifteen.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/pages/fifteen/fifteen.component.html" />
+      <jump line="33" column="2" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.ts" />
+      <jump line="44" column="71" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.ts" />
+      <jump line="34" column="2" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.ts" />
+      <jump line="35" column="2" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.ts" />
+      <jump line="36" column="2" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.ts" />
+      <jump line="48" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/app.module.ts" />
+      <jump line="26" column="25" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/game/game.component.html" />
+      <jump line="34" column="13" filename="$USER_HOME$/Development/fivehundred/src/app/quiz.storage.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/fivehundred/src/app/quiz.storage.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -339,8 +469,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInNjcm9sbGluZyIpOwo=</text>
       </register>
       <register name="b" type="4">
         <text>b</text>
@@ -3466,7 +3596,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>outcom</text>
@@ -6145,34 +6275,34 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJwcm9zIj4ke3tzdG9ja319PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInNjcm9sbGluZyIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGFwcC1yaWRkbGUgW25leHRSb3V0ZV09Im5leHRSb3V0ZSIgcGFzc3dvcmQ9ImVudmVsb3BlLTMiPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8YnIvPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8YnIvPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA8YnIvPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZUhhc2g6IHRyZGR1ZSwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIHJvdXRlKGNvbXBvbmVudCkgewogIHJldHVybiB7CiAgICBwYXRoOiBjb21wb25lbnQuUk9VVEUsCiAgICBjb21wb25lbnQ6IGNvbXBvbmVudCwKICAgIHBhdGhNYXRjaDogJ2Z1bGwnLAogIH07Cn0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubmV4dFJvdXRlKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJBSEhISEhISEhIIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEdhbWVDb21wb25lbnQuTUFQUElORy5nZXQodmFsdWUudG9TdHJpbmcoKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEdhbWVDb21wb25lbnQuTUFQUElORyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7cGF0aDogJyQkJCQkJCQkJCQnLCBjb21wb25lbnQ6IE1vbmV5Q29tcG9uZW50fSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEdhbWVDb21wb25lbnQuTUFQUElOR1t2YWx1ZS50b1N0cmluZygpXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
