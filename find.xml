@@ -10,6 +10,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -23,12 +24,12 @@
     <mask>*module*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.module.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*TEST.java</mask>
     <mask>*.java</mask>
     <mask>*.proto</mask>
     <mask>*module.ts</mask>
     <mask>*service.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
