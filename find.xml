@@ -25,5 +25,6 @@
     <mask>*.java</mask>
     <mask>*.proto</mask>
     <mask>*module.ts</mask>
+    <mask>*service.ts</mask>
   </component>
 </application>
