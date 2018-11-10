@@ -10,13 +10,11 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
     <mask>BUILD</mask>
@@ -31,5 +29,6 @@
     <mask>*module.ts</mask>
     <mask>*service.ts</mask>
     <mask>*.ts</mask>
+    <mask>*.css</mask>
   </component>
 </application>
