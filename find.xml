@@ -8,7 +8,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.proto" />
+    <option name="FILE_MASK" value="*.service.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -25,10 +25,10 @@
     <mask>*TEST.java</mask>
     <mask>*.java</mask>
     <mask>*module.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.css</mask>
     <mask>*service.ts</mask>
-    <mask>*.service.ts</mask>
     <mask>*.proto</mask>
+    <mask>*.ts</mask>
+    <mask>*.service.ts</mask>
   </component>
 </application>
