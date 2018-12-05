@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.proto" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -25,7 +25,7 @@
     <mask>*.service.ts</mask>
     <mask>*.py</mask>
     <mask>*.ts</mask>
-    <mask>*.java</mask>
     <mask>*.proto</mask>
+    <mask>*.java</mask>
   </component>
 </application>
