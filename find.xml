@@ -6,7 +6,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -27,9 +26,9 @@
     <mask>*.py</mask>
     <mask>*.sql</mask>
     <mask>*. ts</mask>
-    <mask>*.ts</mask>
-    <mask>*.proto</mask>
     <mask>*.html</mask>
+    <mask>*.proto</mask>
     <mask>*.java</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
