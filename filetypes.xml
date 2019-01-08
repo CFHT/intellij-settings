@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="bundle" type="PLAIN_TEXT" />
       <mapping pattern="cfhtapi-staging-environment" type="PLAIN_TEXT" />
       <mapping pattern="compile" type="PLAIN_TEXT" />
-      <mapping pattern="example/service" type="PLAIN_TEXT" />
       <mapping pattern="selinux-config" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern="launch" type="PLAIN_TEXT" />
+      <mapping pattern="example/service" type="PLAIN_TEXT" />
       <mapping pattern="manifest" type="PLAIN_TEXT" />
       <mapping pattern="fp-seq2-pl-sky-before-and-after" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="cfhtapi-production-environment" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
