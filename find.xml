@@ -8,13 +8,13 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>*.scss</mask>
     <mask>BUILD</mask>
     <mask>*.bzl</mask>
     <mask>*module*.java</mask>
@@ -33,5 +33,6 @@
     <mask>*.ts,*.html</mask>
     <mask>*.css</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
