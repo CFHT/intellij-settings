@@ -30,5 +30,6 @@
     <mask>*.css</mask>
     <mask>*component.ts</mask>
     <mask>*.ts</mask>
+    <mask>r</mask>
   </component>
 </application>
