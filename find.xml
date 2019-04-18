@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -25,11 +26,11 @@
     <mask>*.ts,*.html</mask>
     <mask>*.scss</mask>
     <mask>*.proto</mask>
-    <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*component.ts</mask>
     <mask>*.ts</mask>
     <mask>r</mask>
+    <mask>*.java</mask>
   </component>
 </application>
