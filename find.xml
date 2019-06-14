@@ -24,7 +24,6 @@
     <mask>*.py</mask>
     <mask>*.sql</mask>
     <mask>*. ts</mask>
-    <mask>*.ts,*.html</mask>
     <mask>*.css</mask>
     <mask>*component.ts</mask>
     <mask>r</mask>
@@ -33,5 +32,6 @@
     <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*.ts,*.html</mask>
   </component>
 </application>
