@@ -8,7 +8,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -27,7 +26,6 @@
     <mask>*.py</mask>
     <mask>*.sql</mask>
     <mask>*. ts</mask>
-    <mask>*.css</mask>
     <mask>*component.ts</mask>
     <mask>r</mask>
     <mask>*.proto</mask>
@@ -36,5 +34,6 @@
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.css</mask>
   </component>
 </application>
