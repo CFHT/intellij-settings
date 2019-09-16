@@ -6,6 +6,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.proto" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -30,9 +31,9 @@
     <mask>*.ts</mask>
     <mask>*.ts,*.html</mask>
     <mask>*.java</mask>
-    <mask>*.ts,*.html,!*.d.ts</mask>
     <mask>*.html</mask>
     <mask>*.py</mask>
+    <mask>*.ts,*.html,!*.d.ts</mask>
     <mask>*.proto</mask>
   </component>
 </application>
