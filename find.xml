@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.ts,*.html,!*.d.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -30,9 +32,9 @@
     <mask>*.ts,*.html</mask>
     <mask>*.html</mask>
     <mask>*.py</mask>
-    <mask>*.ts,*.html,!*.d.ts</mask>
     <mask>*.ts</mask>
     <mask>*.proto</mask>
     <mask>*.java</mask>
+    <mask>*.ts,*.html,!*.d.ts</mask>
   </component>
 </application>
