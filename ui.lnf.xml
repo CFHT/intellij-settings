@@ -3,4 +3,7 @@
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="SCOPE_TYPE" value="file" />
   </component>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="100" />
+  </component>
 </application>
