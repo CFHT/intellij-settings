@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts,*.html,*.css,!*.d.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -30,7 +33,7 @@
     <mask>*.ts,*.html,!*.d.ts</mask>
     <mask>*.css</mask>
     <mask>*.java</mask>
-    <mask>*.ts,*.html,*.css,!*.d.ts</mask>
     <mask>*.proto</mask>
+    <mask>*.ts,*.html,*.css,!*.d.ts</mask>
   </component>
 </application>
