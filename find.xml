@@ -2,8 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.proto" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -30,8 +34,8 @@
     <mask>*.ts,*.html,!*.d.ts</mask>
     <mask>*.css</mask>
     <mask>*.ts,*.html,*.css,!*.d.ts</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.proto</mask>
+    <mask>*.java</mask>
   </component>
 </application>
