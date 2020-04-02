@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -35,8 +36,8 @@
     <mask>*.ts,*.html,!*.d.ts</mask>
     <mask>*.css</mask>
     <mask>*.ts,*.html,*.css,!*.d.ts</mask>
-    <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.proto</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
