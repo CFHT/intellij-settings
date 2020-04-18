@@ -36,8 +36,8 @@
     <mask>*.ts,*.html,!*.d.ts</mask>
     <mask>*.css</mask>
     <mask>*.sql</mask>
-    <mask>*.proto</mask>
     <mask>*.java</mask>
+    <mask>*.proto</mask>
     <mask>*.ts,*.html,*.css,!*.d.ts</mask>
   </component>
 </application>
