@@ -1,40 +1,18 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.proto" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
+    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>BUILD</mask>
-    <mask>*.bzl</mask>
-    <mask>*module*.java</mask>
-    <mask>pom.xml</mask>
-    <mask>*.module.ts</mask>
-    <mask>*TEST.java</mask>
-    <mask>*module.ts</mask>
-    <mask>*service.ts</mask>
-    <mask>*.service.ts</mask>
-    <mask>*.py</mask>
-    <mask>*.sql</mask>
-    <mask>*. ts</mask>
-    <mask>*component.ts</mask>
-    <mask>r</mask>
-    <mask>*.scss</mask>
-    <mask>*.ts,*.html</mask>
-    <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.java</mask>
+    <mask>*.mxml</mask>
     <mask>*.ts</mask>
-    <mask>*.proto</mask>
   </component>
 </application>
