@@ -1,6 +1,0 @@
-<application>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://vizier.u-strasbg.fr/doc/astrores.htx" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/fdc031ee_astrores.htx.html" />
-    <resource url="http://vizier.u-strasbg.fr/xml/astrores.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/da3aba57_astrores.dtd" />
-  </component>
-</application>
