@@ -8,6 +8,7 @@
       <language id="kotlin" />
       <language id="Groovy" />
       <language id="SQL" />
+      <language id="ruby" />
     </disabledLanguages>
   </component>
 </application>
