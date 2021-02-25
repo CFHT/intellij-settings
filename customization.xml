@@ -1,0 +1,32 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Generate" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt+Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="OverrideMethods" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt+Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DelegateMethods" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt+Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ImplementMethods" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Default with Alt+Cmd Key" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
