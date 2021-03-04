@@ -1,4 +1,9 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="ExportToTextFile" />
+  <action id="GotoSymbol" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
   <action id="UsageGrouping.FlattenModules" />
 </keymap>
