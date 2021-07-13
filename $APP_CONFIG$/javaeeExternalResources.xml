@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://vizier.u-strasbg.fr/doc/astrores.htx" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/extResources/fdc031ee_astrores.htx.html" />
+    <resource url="http://vizier.u-strasbg.fr/xml/astrores.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/extResources/da3aba57_astrores.dtd" />
+    <resource url="https://checkstyle.org/dtds/suppressions_1_0.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/extResources/c4e30fb8_suppressions_1_0.dtd" />
+  </component>
+</application>
