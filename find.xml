@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.proto" />
+    <option name="FILE_MASK" value="*test.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,5 +21,7 @@
     <mask>pom.xml</mask>
     <mask>*module.java</mask>
     <mask>*.proto</mask>
+    <mask>BUILD</mask>
+    <mask>*test.java</mask>
   </component>
 </application>
