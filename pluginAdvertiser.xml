@@ -136,6 +136,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.chm">
           <value>
             <plugin>
@@ -673,6 +681,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ini">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ipr">
           <value>
             <plugin>
@@ -1091,6 +1107,38 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nim">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.nim" />
+              <option name="myPluginName" value="Nim" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nimble">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.nim" />
+              <option name="myPluginName" value="Nim" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nimcfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.nim" />
+              <option name="myPluginName" value="Nim" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nims">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.nim" />
+              <option name="myPluginName" value="Nim" />
             </plugin>
           </value>
         </entry>
@@ -1651,6 +1699,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.toml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.trace">
           <value>
             <plugin>
@@ -2000,6 +2056,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".flowconfig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".gitmodules">
           <value>
             <plugin>
@@ -2132,6 +2196,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Cargo.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Cargo.toml.orig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="Dockerfile">
           <value>
             <plugin>
@@ -2174,6 +2254,22 @@
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Gopkg.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Pipfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
             </plugin>
           </value>
         </entry>
@@ -2321,6 +2417,14 @@
               <option name="myPluginId" value="org.intellij.groovy" />
               <option name="myPluginName" value="Groovy" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="poetry.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
             </plugin>
           </value>
         </entry>
@@ -2539,6 +2643,16 @@
                       <FeaturePluginData displayName="Arquillian TestNG" pluginName="com.intellij.jboss.arquillian" pluginId="com.intellij.jboss.arquillian" />
                     </value>
                   </entry>
+                  <entry key="BlazeCommandRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Bazel Command" pluginName="Bazel" pluginId="com.google.idea.bazel.ijwb" />
+                    </value>
+                  </entry>
+                  <entry key="BlazeIntellijPluginConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Bazel IntelliJ Plugin" pluginName="com.google.idea.bazel.ijwb" pluginId="com.google.idea.bazel.ijwb" />
+                    </value>
+                  </entry>
                   <entry key="CapistranoRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Capistrano" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
@@ -2649,6 +2763,11 @@
                       <FeaturePluginData displayName="Jest" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
                     </value>
                   </entry>
+                  <entry key="JavaScriptTestRunnerKarma">
+                    <value>
+                      <FeaturePluginData displayName="Karma" pluginName="Karma" pluginId="Karma" />
+                    </value>
+                  </entry>
                   <entry key="JavaScriptTestRunnerProtractor">
                     <value>
                       <FeaturePluginData displayName="Protractor" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
@@ -2692,6 +2811,11 @@
                   <entry key="MicronautRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Micronaut" pluginName="Micronaut" pluginId="com.intellij.micronaut" />
+                    </value>
+                  </entry>
+                  <entry key="NimRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Nim Application" pluginName="Nim" pluginId="com.jetbrains.nim" />
                     </value>
                   </entry>
                   <entry key="NodeJSConfigurationType">
