@@ -3,14 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test.java" />
     <mask>*.java</mask>
     <mask>*.md</mask>
     <mask>*.html</mask>
     <mask>*module*</mask>
-    <mask>*test.java</mask>
     <mask>*.py</mask>
     <mask>BUILD</mask>
     <mask>*.ts</mask>
     <mask>*.proto</mask>
+    <mask>*test.java</mask>
   </component>
 </application>
