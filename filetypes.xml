@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="LICENCE" type="AUTO_DETECTED" />
       <mapping pattern="get" type="AUTO_DETECTED" />
+      <mapping ext="rst" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
