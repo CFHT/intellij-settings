@@ -20,8 +20,8 @@
     </value>
   </option>
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
-  <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
   <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
   <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
   <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
   <option name="ALIGN_MULTILINE_FOR" value="false" />
@@ -119,9 +119,6 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
-  <Python>
-    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
-  </Python>
   <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -130,7 +127,6 @@
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="ECMA Script Level 4">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
