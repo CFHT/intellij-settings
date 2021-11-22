@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*py" />
+    <option name="FILE_MASK" value="*proto" />
     <mask>*.md</mask>
     <mask>*module*</mask>
     <mask>*.py</mask>
@@ -12,10 +12,10 @@
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.proto</mask>
-    <mask>*proto</mask>
     <mask>*java</mask>
     <mask>BUILD</mask>
     <mask>*.ts</mask>
     <mask>*py</mask>
+    <mask>*proto</mask>
   </component>
 </application>
