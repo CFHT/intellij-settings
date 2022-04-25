@@ -12,11 +12,11 @@
     <mask>*.proto</mask>
     <mask>BUILD</mask>
     <mask>*py</mask>
-    <mask>*.ts</mask>
     <mask>*java</mask>
     <mask>README*</mask>
     <mask>*proto</mask>
     <mask>*.java</mask>
     <mask>*sql</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
