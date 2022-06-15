@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.md</mask>
     <mask>*module*</mask>
     <mask>*.py</mask>
@@ -19,7 +19,7 @@
     <mask>*Component*.java</mask>
     <mask>*.java</mask>
     <mask>*proto</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
