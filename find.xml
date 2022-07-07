@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*proto" />
     <mask>*.md</mask>
     <mask>*module*</mask>
     <mask>*.py</mask>
@@ -18,10 +19,10 @@
     <mask>BUILD</mask>
     <mask>*Factory.java</mask>
     <mask>*Component*.java</mask>
-    <mask>*proto</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
+    <mask>*proto</mask>
   </component>
 </application>
