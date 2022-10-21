@@ -20,7 +20,7 @@
     <mask>*.css</mask>
     <mask>*proto</mask>
     <mask>*.ts</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
