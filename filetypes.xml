@@ -4,6 +4,7 @@
       <mapping pattern="LICENCE" type="AUTO_DETECTED" />
       <mapping pattern="get" type="AUTO_DETECTED" />
       <mapping ext="rst" type="AUTO_DETECTED" />
+      <mapping pattern="BUILD" type="BUILD" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -13,6 +14,7 @@
       <removed_mapping ext="cfg" approved="true" type="NimConfig" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern="BUILD" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="BUILD" approved="true" type="Please BUILD file" />
     </extensionMap>
   </component>
 </application>
