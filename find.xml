@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/observing/piapi/src/main/java/edu/hawaii/cfht/observing/piapi/action/ReviewPanelCommitteeService.java [piapi]'" />
-    <option name="defaultScopeName" value="File '…/observing/piapi/src/main/java/edu/hawaii/cfht/observing/piapi/action/ReviewPanelCommitteeService.java [piapi]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/observing/piapi/src/main/java/edu/hawaii/cfht/observing/piapi/action/ReviewPanelCommitteeService.java [piapi]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*java" />
     <mask>*.md</mask>
     <mask>*module*</mask>
     <mask>*.py</mask>
@@ -23,7 +24,7 @@
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*proto</mask>
-    <mask>*java</mask>
     <mask>*.ts</mask>
+    <mask>*java</mask>
   </component>
 </application>
