@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.md</mask>
     <mask>*module*</mask>
     <mask>*.py</mask>
@@ -21,11 +21,11 @@
     <mask>*.sql</mask>
     <mask>BUILD</mask>
     <mask>*.html</mask>
-    <mask>*proto</mask>
     <mask>*java</mask>
     <mask>*java(</mask>
     <mask>*.xml</mask>
-    <mask>*.ts</mask>
     <mask>*.java</mask>
+    <mask>*proto</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
