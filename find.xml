@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*module*</mask>
     <mask>*.py</mask>
     <mask>*test.java</mask>
@@ -23,10 +24,10 @@
     <mask>*java</mask>
     <mask>*java(</mask>
     <mask>*proto</mask>
-    <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ts</mask>
     <mask>*.md</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
