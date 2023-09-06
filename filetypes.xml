@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="srcjar" type="ARCHIVE" />
       <mapping pattern="LICENCE" type="AUTO_DETECTED" />
       <mapping pattern="get" type="AUTO_DETECTED" />
       <mapping ext="rst" type="AUTO_DETECTED" />
