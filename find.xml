@@ -1,11 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*module*</mask>
+    <mask>*.py</mask>
     <mask>*test.java</mask>
     <mask>*spec.ts</mask>
     <mask>*.proto</mask>
@@ -19,12 +22,11 @@
     <mask>*.html</mask>
     <mask>*java</mask>
     <mask>*java(</mask>
+    <mask>*proto</mask>
     <mask>*.css</mask>
     <mask>*.ts</mask>
     <mask>*.md</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.py</mask>
-    <mask>*proto</mask>
   </component>
 </application>
